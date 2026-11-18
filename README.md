@@ -2,7 +2,7 @@
 
 Este projeto consiste em um dashboard completo para controle e visualização de finanças pessoais, desenvolvido no **Power BI**. O objetivo é transformar dados brutos em insights claros sobre patrimônio, dívidas, investimentos e fluxo de caixa mensal.
 
-## 🔗 Acesse o Dashboard Online -> https://app.powerbi.com/view?r=eyJrIjoiMjQwMDVmMWItNWY0Mi00NDEzLWJlYjQtOWM0NzFlY2UyZjlkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+👉 **[Clique aqui para interagir com o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjQwMDVmMWItNWY0Mi00NDEzLWJlYjQtOWM0NzFlY2UyZjlkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)**
 <!-- Substitua os links abaixo pelas URLs das imagens no seu repositório -->
 *Tela 1: Visão Geral de Investimentos e Metas*
 
